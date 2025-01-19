@@ -20,3 +20,9 @@ User-Centric Design: A simple and intuitive platform for users of all ages.
 Data-Driven Insights: Empowering users with actionable information to create change.
 Collaborative Community: Work together to build a sustainable future.
 Commitment to the Planet: A platform designed with environmental integrity at its core
+
+Team Members: 👥
+Ishaan Agarwal (Team Leader)
+Sumit Kumar
+Tapan Tyagi
+Vanshaj Tyagi
